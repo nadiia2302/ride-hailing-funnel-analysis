@@ -3,7 +3,7 @@
 This project analyzes the user journey for Metrocar, a ride-hailing app. I investigated the entire funnel—from the first app download to the final ride review—to find out where users drop off and how to improve the business.
 
 ## 🛠 Tech Stack
-⚡ SQL: To extract and transform data.
+-- SQL: To extract and transform data.
 
 🛠 DBeaver: Professional database management tool used to run queries.
 
