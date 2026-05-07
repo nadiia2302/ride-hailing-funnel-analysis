@@ -25,6 +25,8 @@ This project analyzes user behavior for Metrocar, a ride-hailing platform (simil
 2)  Final Project Report (PDF) — https://drive.google.com/file/d/1To_QYOLUu_2X46_lIk5AMuJPLGz2Ra1x/view
 3) Funnel Analysis Preview
 <img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/8560889b-c759-4578-9ee0-c7002f77447c" />
+
 4) User & Ride Detailed Analysis Preview
+   
 <img width="1447" height="801" alt="image" src="https://github.com/user-attachments/assets/0468ea95-c756-4100-bf13-86ca93b35398" />
 
