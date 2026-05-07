@@ -9,7 +9,7 @@ This project analyzes the user journey for Metrocar, a ride-hailing app. I inves
 
 - Excel / Google Sheets: For data cleaning and quick calculations.
 
-- Tableau / Power BI: To build an interactive dashboard for stakeholders.
+- Power BI: To build an interactive dashboard for stakeholders.
 ## 🎯 Main Goals
 - Funnel Analysis: Find the "bottlenecks" where we lose the most users.
 
