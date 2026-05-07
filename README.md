@@ -19,3 +19,9 @@ This project analyzes user behavior for Metrocar, a ride-hailing platform (simil
 - Time Trends: Check if wait times or time of day affect booking success.
 
 - Business Strategy: Recommend where to spend the marketing budget.
+## 🚀 Project Deliverables
+1) Interactive Dashboard — https://app.powerbi.com/view?r=eyJrIjoiY2Y0ZGIxNjYtYmUwYi00ZmQyLWEwOWUtOGI3NWIzYjMxZjM1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+(Detailed visual analysis of the user funnel and platform performance (2 pages))
+
+2) Final Project Report (PDF) — https://drive.google.com/file/d/1To_QYOLUu_2X46_lIk5AMuJPLGz2Ra1x/view
