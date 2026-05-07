@@ -1,11 +1,22 @@
-## This project analyzes user behavior for Metrocar, a ride-hailing platform (similar to Uber or Bolt). The goal is to identify why users drop off at different stages of the customer journey—from downloading the app to completing their first ride and leaving a review.
+# 🚗 Metrocar Data Analysis
+📝 Project Description
+This project analyzes the user journey for Metrocar, a ride-hailing app. I investigated the entire funnel—from the first app download to the final ride review—to find out where users drop off and how to improve the business.
 
-As a Data Analyst, I used SQL to query the database and Excel/Google Sheets (along with Tableau/PowerBI) to visualize the results and provide actionable business insights.
-### Business Questions Addressed
-User Funnel Analysis: At which stage do we lose the most users (Download → Registration → Ride Request → Acceptance → Ride → Payment → Review)?
+## 🛠 Tech Stack
+⚡ SQL: To extract and transform data.
 
-Drop-off Points: Are there specific times of day or days of the week where conversion rates are lower? Does driver wait time affect user retention?
+🛠 DBeaver: Professional database management tool used to run queries.
 
-Platform Performance: Which platforms (iOS, Android, or Web) have the best performance and deserve more marketing budget?
+📊 Excel / Google Sheets: For data cleaning and quick calculations.
 
-Age Group Analysis: Which age demographics are the most active and most likely to complete a trip?
+📈 Tableau / Power BI: To build an interactive dashboard for stakeholders.
+## 🎯 Main Goals
+🔍 Funnel Analysis: Find the "bottlenecks" where we lose the most users.
+
+📱 Platform Insights: Compare iOS vs. Android vs. Web performance.
+
+👥 User Demographics: Identify which age groups are the most active.
+
+🕒 Time Trends: Check if wait times or time of day affect booking success.
+
+💡 Business Strategy: Recommend where to spend the marketing budget.
