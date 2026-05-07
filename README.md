@@ -23,6 +23,8 @@ This project analyzes user behavior for Metrocar, a ride-hailing platform (simil
 1)  Interactive Dashboard — https://app.powerbi.com/view?r=eyJrIjoiY2Y0ZGIxNjYtYmUwYi00ZmQyLWEwOWUtOGI3NWIzYjMxZjM1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 (Detailed visual analysis of the user funnel and platform performance (2 pages))
 
 2)  Final Project Report (PDF) — https://drive.google.com/file/d/1To_QYOLUu_2X46_lIk5AMuJPLGz2Ra1x/view
-<img width="1435" height="799" alt="image" src="https://github.com/user-attachments/assets/a59edf1d-002e-4fe9-beba-c45997d7c28d" />
+3) Funnel Analysis Preview
+<img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/8560889b-c759-4578-9ee0-c7002f77447c" />
+4) User & Ride Detailed Analysis Preview
 <img width="1447" height="801" alt="image" src="https://github.com/user-attachments/assets/0468ea95-c756-4100-bf13-86ca93b35398" />
 
