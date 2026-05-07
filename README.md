@@ -1,5 +1,5 @@
 # 🚗 Metrocar Data Analysis
-📝 Project Description
+## 📝 Project Description
 This project analyzes user behavior for Metrocar, a ride-hailing platform (similar to Uber or Bolt). The goal is to identify why users drop off at different stages of the customer journey—from downloading the app to completing their first ride and leaving a review.  I used SQL to query the database and Excel/Google Sheets (along with PowerBI) to visualize the results and provide actionable business insights.
 ## 🛠 Tech Stack
 - SQL: To extract and transform data.
