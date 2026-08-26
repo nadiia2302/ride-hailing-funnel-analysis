@@ -78,21 +78,48 @@ I believe these adjustments will best tackle the largest drop-off points, increa
 
 ## Database Connection
 
-The data used in this project was provided during a data analytics internship 
-at Data Loves Academy and is confidential — program terms prohibit sharing 
+The data used in this project was provided during a data analytics trainee
+at Data Loves Academy and is confidential - program terms prohibit sharing 
 the dataset or database credentials.
 
 The SQL scripts reflect the actual queries used in the analysis and can be 
 adapted to any dataset with a similar schema:
 
-- `funnel_analysis` (user_id, funnel_name, number_of_users, platform, age_range)
-- `ride_requests` (ride_id, user_id, request_ts, accept_ts, dropoff_ts)
-- `transactions` (ride_id, charge_status)
-- `reviews` (ride_id, rating)
+**app_downloads** - app download events
+- `app_download_key`: unique download ID
+- `platform`: ios / android / web
+- `download_ts`: download date and time
+
+**signups** - new user registrations
+- `user_id`: unique user ID
+- `session_id`: linked app download ID
+- `signup_ts`: registration date and time
+- `age_range`: user age group
+
+**ride_requests** - ride request events
+- `ride_id`: unique ride ID
+- `user_id`: user who requested the ride
+- `driver_id`: driver who accepted the ride
+- `request_ts`, `accept_ts`, `pickup_ts`, `dropoff_ts`, `cancel_ts`: event timestamps
+- `pickup_location`, `destination_location`: coordinates
+
+**transactions** - payment data
+- `ride_id`: linked ride ID
+- `purchase_amount_usd`: purchase amount in USD
+- `charge_status`: payment status (approved, cancelled)
+- `transaction_ts`: transaction timestamp
+
+**reviews** - post-ride user feedback
+- `review_id`: unique review ID
+- `ride_id`, `driver_id`, `user_id`: linked IDs
+- `rating`: rating (0–5)
+- `free_response`: free-text user comment
+
+**funnel_analysis** - a derived table built via `create_table_funnel_analysis.sql` 
+to simplify funnel analysis, combining key events from the tables above into a 
+single step-based structure (`funnel_name`, `number_of_users`, `platform`, `age_range`)
 
 Database: PostgreSQL
-
-
 
 
 
