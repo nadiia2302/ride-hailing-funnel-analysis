@@ -48,7 +48,7 @@ Creating a dashboard to track the user funnel gives product, marketing, and supp
 
 Because the biggest opportunities are at the **Payment** (49.23% churn — the single largest drop-off in the funnel, occurring right after Ride Accepted) and **Ride Requested** (29.60% churn) steps, I recommend a few product and marketing adjustments:
 
-1. **Balance supply and demand at peak hours** - most rides are requested between 8–10 AM and 4–7 PM, and this is also when the most users are lost; incentivize more drivers to work these windows with bonuses, reminders, and dynamic pricing.
+1. **Balance supply and demand at peak hours** - most rides are requested between 8-10 AM and 4-7 PM, and this is also when the most users are lost; incentivize more drivers to work these windows with bonuses, reminders, and dynamic pricing.
 2. **Reduce driver wait times** - retention is 100% when wait time is under 10 minutes but crashes to just 14% once wait time exceeds 10 minutes (159,633 requests, 85.9% churn); this is the single biggest revenue leak identified in the analysis. Getting more drivers on the road during busy periods should directly lift completion rate and cut cancellations.
 3. **Improve the app experience for the 45–54 age group** - simplify the interface with bigger buttons and clearer instructions, since this group has among the lowest ride-completion rates.
 4. **Fix the "Unknown" age-group data gap** - prompt users to enter their age (with a small incentive/promo) both to improve targeting and to rule out a technical issue behind the large "Unknown" segment.
