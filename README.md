@@ -14,9 +14,11 @@ Using SQL and Excel/Google Sheets, I pulled ride and user data from the database
 
 Completed rides are essential for Metrocar since they're directly tied to revenue. Product and marketing stakeholders have noticed that fewer users complete a ride than expected (based on users who download the app vs. users who complete their first ride). How can we determine where users are falling out of the funnel, which platforms and age groups convert best, and what product or marketing changes will encourage more users to complete a ride?
 
-**User Funnel Flowchart**
+1) Funnel Analysis Preview
+<img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/8560889b-c759-4578-9ee0-c7002f77447c" />
+2) User & Ride Detailed Analysis Preview 
+<img width="1447" height="801" alt="image" src="https://github.com/user-attachments/assets/0468ea95-c756-4100-bf13-86ca93b35398" />
 
-![Funnel Analysis](https://github.com/user-attachments/assets/8560889b-c759-4578-9ee0-c7002f77447c)
 
 ---
 
