@@ -44,16 +44,15 @@ Completed rides are essential for Metrocar since they're directly tied to revenu
 
 ## Results & Business Recommendation
 
-The funnel dashboard shows where users drop off - both overall and by platform 
-and age group. Overall, conversion drops from 100% at download to just 18% at 
-review, and only half of ride requests turn into completed rides (12.4K - 6.2K). 
-iOS makes up most of the user base (60.84%, vs. 29.36% Android and 9.8% Web), 
-and the 35-44 age group is the most active and completes the most rides, while 
-18-24 and 45-54 convert the worst.
+The dashboard shows where users drop off - overall, and by platform and age. 
+Conversion falls from 100% at download to 18% at review. Only half of ride 
+requests become completed rides (12.4K - 6.2K). iOS is the main platform 
+(60.84%, vs. 29.36% Android and 9.8% Web). The 35-44 age group is the most 
+active and completes the most rides, while 18-24 and 45-54 convert worst.
 
-The two biggest drop-off points are **Payment** (49.23% churn - the largest in 
-the funnel) and **Ride Requested** (29.60% churn). Based on this, here are my 
-recommendations:
+The biggest drop-offs are at Payment (49.23% churn) and Ride Requested 
+(29.60% churn). 
+Recommendations:
 
 1. **Add more drivers during peak hours (8-10 AM, 4-7 PM)** - this is when 
 demand is highest and most users are lost. Bonuses, reminders, and dynamic 
