@@ -44,18 +44,35 @@ Completed rides are essential for Metrocar since they're directly tied to revenu
 
 ## Results & Business Recommendation
 
-Creating a dashboard to track the user funnel gives product, marketing, and support stakeholders visibility into where users drop off - both overall and by platform and age group. This analysis showed that overall conversion falls from 100% at download to just **18%** of users who leave a review, and only **50%** of users who request a ride go on to complete one (12.4K ride requests → 6.2K completed rides). **iOS** accounts for significantly more of the user base than **Web** (**60.84%** vs. **9.8%**, with Android at 29.36%), and the **35-44** age group (alongside the "Unknown" age category) is both the most active and the most likely to complete a ride, while **18–24** and **45–54** convert the worst.
+The funnel dashboard shows where users drop off - both overall and by platform 
+and age group. Overall, conversion drops from 100% at download to just 18% at 
+review, and only half of ride requests turn into completed rides (12.4K - 6.2K). 
+iOS makes up most of the user base (60.84%, vs. 29.36% Android and 9.8% Web), 
+and the 35-44 age group is the most active and completes the most rides, while 
+18-24 and 45-54 convert the worst.
 
-Because the biggest opportunities are at the **Payment** (49.23% churn - the single largest drop-off in the funnel, occurring right after Ride Accepted) and **Ride Requested** (29.60% churn) steps, I recommend a few product and marketing adjustments:
+The two biggest drop-off points are **Payment** (49.23% churn - the largest in 
+the funnel) and **Ride Requested** (29.60% churn). Based on this, here are my 
+recommendations:
 
-1. **Balance supply and demand at peak hours** - most rides are requested between 8-10 AM and 4-7 PM, and this is also when the most users are lost; incentivize more drivers to work these windows with bonuses, reminders, and dynamic pricing.
-2. **Reduce driver wait times** - retention is 100% when wait time is under 10 minutes but crashes to just 14% once wait time exceeds 10 minutes (159,633 requests, 85.9% churn); this is the single biggest revenue leak identified in the analysis. Getting more drivers on the road during busy periods should directly lift completion rate and cut cancellations.
-3. **Improve the app experience for the 45–54 age group** - simplify the interface with bigger buttons and clearer instructions, since this group has among the lowest ride-completion rates.
-4. **Fix the "Unknown" age-group data gap** - prompt users to enter their age (with a small incentive/promo) both to improve targeting and to rule out a technical issue behind the large "Unknown" segment.
-5. **Refocus marketing spend** - target **18–24** users for acquisition and **35–44** users for monetization, since the 35–44 group both completes the most rides and spends the most.
-6. **Invest in service quality** - over 46,458 reviews are 1-star, and review text shows most complaints are about driver service. A bad first ride experience strongly predicts churn, so training drivers, removing consistently low-rated ones, and rewarding good service (promo codes for happy users) should help retention.
+1. **Add more drivers during peak hours (8-10 AM, 4-7 PM)** - this is when 
+demand is highest and most users are lost. Bonuses, reminders, and dynamic 
+pricing can help.
+2. **Cut driver wait times** - retention is 100% under 10 minutes but drops 
+to 14% after that (159,633 requests, 85.9% churn). This is the biggest 
+opportunity in the whole funnel.
+3. **Simplify the app for 45-54 users** - bigger buttons, clearer instructions, 
+since this group has one of the lowest completion rates.
+4. **Fix missing age data** - prompt users to enter their age (with a small 
+incentive) to improve targeting and check if it's a tracking issue.
+5. **Adjust marketing spend** - focus on 18-24 for new users and 35-44 for 
+revenue, since they complete the most rides and spend the most.
+6. **Improve service quality** - over 46,458 reviews are 1-star, mostly about 
+drivers. A bad first ride often leads to churn, so training drivers, removing 
+low performers, and rewarding good service could help.
 
-I believe these adjustments will best tackle the largest drop-off points, increase conversion, and give the team a repeatable way to monitor funnel health going forward.
+These changes target the biggest drop-off points and give the team a way to 
+keep tracking funnel health going forward.
 
 ---
 
