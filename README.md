@@ -52,6 +52,7 @@ active and completes the most rides, while 18-24 and 45-54 convert worst.
 
 The biggest drop-offs are at Payment (49.23% churn) and Ride Requested 
 (29.60% churn). 
+
 Recommendations:
 
 1. **Add more drivers during peak hours (8-10 AM, 4-7 PM)** - this is when 
