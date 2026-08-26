@@ -74,6 +74,24 @@ I believe these adjustments will best tackle the largest drop-off points, increa
 - **SQL scripts** - see `/sql` folder
 - **Excel/Google Sheets calculations** - see `/spreadsheet` folder
 
+---
+
+## Database Connection
+
+The data used in this project was provided during a data analytics internship 
+at Data Loves Academy and is confidential — program terms prohibit sharing 
+the dataset or database credentials.
+
+The SQL scripts reflect the actual queries used in the analysis and can be 
+adapted to any dataset with a similar schema:
+
+- `funnel_analysis` (user_id, funnel_name, number_of_users, platform, age_range)
+- `ride_requests` (ride_id, user_id, request_ts, accept_ts, dropoff_ts)
+- `transactions` (ride_id, charge_status)
+- `reviews` (ride_id, rating)
+
+Database: PostgreSQL
+
 
 
 
