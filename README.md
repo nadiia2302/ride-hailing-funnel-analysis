@@ -4,7 +4,7 @@
 
 Using SQL and Excel/Google Sheets, I pulled ride and user data from the database and built a Power BI dashboard to track users through the funnel - from app download to completed ride, payment, and review. After identifying that the largest opportunities are at the **Payment** and **Ride Requested** steps, I recommend the product team implement a few adjustments that will lead to higher conversion:
 
-1. **Increase driver supply during peak hours (8–10 AM and 4–7 PM)** with bonuses, reminders, and dynamic pricing.
+1. **Increase driver supply during peak hours (8-10 AM and 4-7 PM)** with bonuses, reminders, and dynamic pricing.
 2. **Reduce wait times** so more requested rides convert to accepted/completed rides instead of being cancelled.
 3. **Improve the payment step experience** to cut the 49% drop-off between Ride Accepted and Payment.
 
