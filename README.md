@@ -48,12 +48,12 @@ Creating a dashboard to track the user funnel gives product, marketing, and supp
 
 Because the biggest opportunities are at the **Payment** (49.23% churn — the single largest drop-off in the funnel, occurring right after Ride Accepted) and **Ride Requested** (29.60% churn) steps, I recommend a few product and marketing adjustments:
 
-1. **Balance supply and demand at peak hours** — most rides are requested between 8–10 AM and 4–7 PM, and this is also when the most users are lost; incentivize more drivers to work these windows with bonuses, reminders, and dynamic pricing.
-2. **Reduce driver wait times** — retention is 100% when wait time is under 10 minutes but crashes to just 14% once wait time exceeds 10 minutes (159,633 requests, 85.9% churn); this is the single biggest revenue leak identified in the analysis. Getting more drivers on the road during busy periods should directly lift completion rate and cut cancellations.
-3. **Improve the app experience for the 45–54 age group** — simplify the interface with bigger buttons and clearer instructions, since this group has among the lowest ride-completion rates.
-4. **Fix the "Unknown" age-group data gap** — prompt users to enter their age (with a small incentive/promo) both to improve targeting and to rule out a technical issue behind the large "Unknown" segment.
-5. **Refocus marketing spend** — target **18–24** users for acquisition and **35–44** users for monetization, since the 35–44 group both completes the most rides and spends the most.
-6. **Invest in service quality** — over 46,458 reviews are 1-star, and review text shows most complaints are about driver service. A bad first ride experience strongly predicts churn, so training drivers, removing consistently low-rated ones, and rewarding good service (promo codes for happy users) should help retention.
+1. **Balance supply and demand at peak hours** - most rides are requested between 8–10 AM and 4–7 PM, and this is also when the most users are lost; incentivize more drivers to work these windows with bonuses, reminders, and dynamic pricing.
+2. **Reduce driver wait times** - retention is 100% when wait time is under 10 minutes but crashes to just 14% once wait time exceeds 10 minutes (159,633 requests, 85.9% churn); this is the single biggest revenue leak identified in the analysis. Getting more drivers on the road during busy periods should directly lift completion rate and cut cancellations.
+3. **Improve the app experience for the 45–54 age group** - simplify the interface with bigger buttons and clearer instructions, since this group has among the lowest ride-completion rates.
+4. **Fix the "Unknown" age-group data gap** - prompt users to enter their age (with a small incentive/promo) both to improve targeting and to rule out a technical issue behind the large "Unknown" segment.
+5. **Refocus marketing spend** - target **18–24** users for acquisition and **35–44** users for monetization, since the 35–44 group both completes the most rides and spends the most.
+6. **Invest in service quality** - over 46,458 reviews are 1-star, and review text shows most complaints are about driver service. A bad first ride experience strongly predicts churn, so training drivers, removing consistently low-rated ones, and rewarding good service (promo codes for happy users) should help retention.
 
 I believe these adjustments will best tackle the largest drop-off points, increase conversion, and give the team a repeatable way to monitor funnel health going forward.
 
@@ -69,10 +69,10 @@ I believe these adjustments will best tackle the largest drop-off points, increa
 
 ## Project Deliverables
 
-- **Interactive Dashboard (Power BI)** — [View here](https://app.powerbi.com/view?r=eyJrIjoiY2Y0ZGIxNjYtYmUwYi00ZmQyLWEwOWUtOGI3NWIzYjMxZjM1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- **Final Report (PDF)** — [View here](https://drive.google.com/file/d/1To_QYOLUu_2X46_lIk5AMuJPLGz2Ra1x/view)
-- **SQL scripts** — see `/sql` folder
-- **Excel/Google Sheets calculations** — see `/spreadsheet` folder
+- **Interactive Dashboard (Power BI)** - [View here](https://app.powerbi.com/view?r=eyJrIjoiY2Y0ZGIxNjYtYmUwYi00ZmQyLWEwOWUtOGI3NWIzYjMxZjM1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- **Final Report (PDF)** - [View here](https://drive.google.com/file/d/1To_QYOLUu_2X46_lIk5AMuJPLGz2Ra1x/view)
+- **SQL scripts** - see `/sql` folder
+- **Excel/Google Sheets calculations** - see `/spreadsheet` folder
 
 
 
