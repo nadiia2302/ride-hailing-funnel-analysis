@@ -16,6 +16,7 @@ Completed rides are essential for Metrocar since they're directly tied to revenu
 
 1) Funnel Analysis Preview
 <img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/8560889b-c759-4578-9ee0-c7002f77447c" />
+
 2) User & Ride Detailed Analysis Preview
    
 <img width="1447" height="801" alt="image" src="https://github.com/user-attachments/assets/0468ea95-c756-4100-bf13-86ca93b35398" />
